@@ -28,7 +28,7 @@ class script(object):
 Note:- Give a user details
 
 •/whois :-give a user full details"""
-    JSON_TXT ="""<b>JSON MODULE</b>
+    JSON_TXT = """Help: <b>JSON MODULE</b>
 JSON:
 Bot returns json for all replied messages with /json
 
@@ -39,7 +39,7 @@ Group Support
 
 Note:
 Everyone can use this command , if spaming happens bot will automatically ban you from the group"""
-    PIN_TXT ="""<b>PIN MODULE</b>
+    PIN_TXT = """Help: <b>PIN MODULE</b>
 
 <b>Pin :</b>
 
